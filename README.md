@@ -82,8 +82,8 @@ git clone https://github.com/malaksoliman73/Telco-Customer-Churn.git
 
 ---
 
-![Telco Customer Churn Overview](PowerBI/images/churn_overview.png)
-![Customer Risk Overview](PowerBI/images/customer_risk.png)
+![Telco Customer Churn Overview](PowerBI/Images/churn_overview.png)
+![Customer Risk Overview](PowerBI/Images/customer_risk.png)
 
 ---
 
