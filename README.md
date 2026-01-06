@@ -26,7 +26,7 @@ Telco-Customer-Churn/
 ├── PowerBI/                # Power BI dashboards
 │   └── churn_dashboard.pbix
 │
-├── Notebooks/              # Jupyter / Colab notebooks
+├── Notebooks/              # Colab notebooks
 │   └── Baseline_Telco_Customer_Churn.ipynb
 │
 ├── README.md               # This file
@@ -57,7 +57,6 @@ The `Notebooks/` folder contains:
 
 **Notebook Link:**  
 [Open in Colab](https://colab.research.google.com/drive/1xVeg5j_LXFYw4LetwsYD6IuXg0ivFyT9?usp=sharing)
-
 
 ---
 
