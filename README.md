@@ -78,7 +78,12 @@ git clone https://github.com/malaksoliman73/Telco-Customer-Churn.git
 2. Open the notebook in **Google Colab**.  
 3. Load the dataset from the `Data/` folder.  
 4. Run the notebook cells sequentially to reproduce EDA, visualizations, and the logistic regression model.  
-5. Open the Power BI file in the `PowerBI/` folder to explore interactive visualizations.  
+5. Open the Power BI file in the `PowerBI/` folder to explore interactive visualizations.
+
+---
+
+![Telco Customer Churn Overview](PowerBI/images/churn_overview.png)
+![Customer Risk Overview](PowerBI/images/customer_risk.png)
 
 ---
 
